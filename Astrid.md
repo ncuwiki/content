@@ -1,3 +1,9 @@
+---
+title: Astrid
+tags: 
+- Character
+---
+
 # Astrid
 
 Astrid is an elluryan witch under the tutelage of Ghael.

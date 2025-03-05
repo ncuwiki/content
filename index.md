@@ -1,25 +1,33 @@
+---
+title: Front Page 
+draft: false
+tags:
+---
+
 # Welcome to NCU Saga Wiki!
 
 The **NCU Saga** is a massive, original fantasy story told by several modern Nintendocore bands across many releases.
 
 ## NCU Saga Releases
-
-| ![Legend of the Light Gem](images/200px-Legend_of_the_Light_Gem_-_Main_Icon.png)<br>[Legend of the Light Gem](Legend_of_the_Light_Gem) | ![Twenty Years of Snow](images/200px-Twenty_Years_of_Snow_-_Main_Icon.png)<br>[Twenty Years of Snow](Twenty_Years_of_Snow) | ![Scars](images/200px-Scars_-_Main_Icon.png)<br>[Scars](Scars)                 |
+| | | | 
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ![Legend of the Light Gem](images/200px-Legend_of_the_Light_Gem_-_Main_Icon.png)<br>[Legend of the Light Gem](Legend_of_the_Light_Gem) | ![Twenty Years of Snow](images/200px-Twenty_Years_of_Snow_-_Main_Icon.png)<br>[Twenty Years of Snow](Twenty_Years_of_Snow) | ![Scars](images/200px-Scars_-_Main_Icon.png)<br>[Scars](Scars)                 |
 | ![Arcana Profane](images/200px-Arcana_Profane_-_Main_Icon.png)<br>[Arcana Profane](Arcana_Profane)                                     | ![Silver and White](images/200px-Silver_and_White_-_Main_Icon.png)<br>[Silver and White](Silver_and_White)                 | ![The Storm](images/200px-The_Storm_-_Main_Icon.png)<br>[The Storm](The_Storm) |
 | ![Something Fierce](images/200px-Something_Fierce_-_Main_Icon.png)<br>[Something Fierce](Something_Fierce)                             |                                                                                                                            |                                                                                |
 
 ## NCU Saga Main Characters
 
-| ![Astrid](images/200px-Astrid_-_Main_Icon.png)<br>[Astrid](Astrid) | ![Garth](images/200px-Garth_-_Main_Icon.png)<br>[Garth](Garth) | ![Ghael](images/200px-Ghael_-_Main_Icon.png)<br>[Ghael](Ghael) |
+| | | | 
 | ------------------------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![Astrid](images/200px-Astrid_-_Main_Icon.png)<br>[Astrid](Astrid) | ![Garth](images/200px-Garth_-_Main_Icon.png)<br>[Garth](Garth) | ![Ghael](images/200px-Ghael_-_Main_Icon.png)<br>[Ghael](Ghael) |
 | ![Grub](images/200px-Grub_-_Main_Icon.png)<br>[Grub](Grub)         | ![Isaac](images/200px-Isaac_-_Main_Icon.png)<br>[Isaac](Isaac) | ![Kat](images/200px-Kat_-_Main_Icon.png)<br>[Kat](Kat)         |
 | ![Nick](images/255px-NickMage.png)<br>[Nick](Nick)                 | ![Sloan](images/200px-Sloan_-_Main_Icon.png)<br>[Sloan](Sloan) | ![Wade](images/200px-Wade_Main_Icon.png)<br>[Wade](Wade)       |
 
 ## NCU Saga Artists
 
-| ![Unicorn Hole](images/200px-Uhole_Profile.jpg)<br>[Unicorn Hole](Unicorn_Hole)                   | ![Nuerra](images/200px-NuerraProfile.jpg)<br>[Nuerra](Nuerra) | ![Weekly Words and Grammar](images/200px-WWWProfile.jpg)<br>[Weekly Words and Grammar](Weekly_Words_and_Grammar) |
+| | | | 
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| ![Unicorn Hole](images/200px-Uhole_Profile.jpg)<br>[Unicorn Hole](Unicorn_Hole)                   | ![Nuerra](images/200px-NuerraProfile.jpg)<br>[Nuerra](Nuerra) | ![Weekly Words and Grammar](images/200px-WWWProfile.jpg)<br>[Weekly Words and Grammar](Weekly_Words_and_Grammar) |
 | ![Polygon Horizon](images/200px-PolygonHorizon_Profile.png)<br>[Polygon Horizon](Polygon_Horizon) |                                                               |                                                                                                                  |
 
 ## External Links and Resources
